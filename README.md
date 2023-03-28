@@ -13,7 +13,7 @@ Op deze pagina's wordt deze tool toegelicht en beschikbaar gesteld als:
 
 ## Features
 
-- Thematische gegevens geënt op een eerdere percelenkaart aanpassen naar de recentste basiskaart (ADP uit GRB)
+- Geodata geënt op een eerdere percelenkaart aanpassen naar de recentste basiskaart (ADP uit GRB)
 - Gebruiksvriendelijk en amper voorbereidingstijd
 - Resultaten: ongeveer 85% wordt automatisch goedgelegd
 - Minder handmatige correcties dankzij de suggesties van het model
