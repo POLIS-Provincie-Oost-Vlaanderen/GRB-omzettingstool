@@ -1,12 +1,10 @@
 # Tool om thematische gegevens af te stemmen op een recente(re) basiskaart
 
-Doorheen de jaren zijn er in het Vlaamse GIS-landschap diverse basiskaarten gebruikt en de huidige basiskaart (GRB) kent vooralsnog geen 'rust in de kaart'. Een gevolg daarvan is o.a. dat allerlei thematische gegevens en plannen afgeleid van eerder kaartmateriaal niet meer perfect passen op de recentste basiskaart. De kwaliteit van de geodata neemt af waardoor ruimtelijke analyses en bevraging wordt bemoeilijkt.
+Doorheen de jaren zijn er in het Vlaamse GIS-landschap diverse basiskaarten gebruikt en de huidige basiskaart (GRB) kent vooralsnog geen 'rust in de kaart'. Een gevolg daarvan is o.a. dat allerlei thematische gegevens en plannen afgeleid van eerder kaartmateriaal niet meer perfect passen op een recente basiskaart. De kwaliteit van de geodata neemt af en ruimtelijke analyse en bevraging worden bemoeilijkt.
 
-Manueel opsporen van fouten en correcties aanbrengen is een optie, maar een zeer arbeidsintensief, tijdrovend en eentonig proces. Gelukkig kan er e.e.a. worden geautomatiseerd.
+Om met deze uitdaging om te gaan, werden binnen [POLIS](https://oost-vlaanderen.be/bestuur-en-regio/wat-doet-het-provinciebestuur/e-government.html) in de loop van de jaren diverse tools ontwikkeld. De tool die momenteel binnen [POLIS](https://oost-vlaanderen.be/bestuur-en-regio/wat-doet-het-provinciebestuur/e-government.html) in gebruik is, werkt op basis van een aantal kenmerken van de geometrieën (ligging, overlapping en oppervlakte).
 
-De tool die binnen [POLIS](https://oost-vlaanderen.be/bestuur-en-regio/wat-doet-het-provinciebestuur/e-government.html) in gebruik is om met dit gegeven werkt op basis van een aantal kenmerken van de geometrieën (ligging, overlapping en oppervlakte).
-
-Op deze pagina's wordt de tool toegelicht en beschikbaar gesteld als:
+Op deze pagina's wordt deze tool toegelicht en beschikbaar gesteld als:
 
 - model (binnen de model designer / graphical modeler van QGIS)
 - script (in pyqgis)
