@@ -15,11 +15,10 @@ Op deze pagina's wordt de tool toegelicht en beschikbaar gesteld als:
 
 ## Features
 
-- Thematische gegevens die zijn geënt op een eerdere percelenkaart aanpassen naar de recentste basiskaart (ADP uit GRB)
+- Thematische gegevens geënt op een eerdere percelenkaart aanpassen naar de recentste basiskaart (ADP uit GRB)
 - Gebruiksvriendelijk en amper voorbereidingstijd
 - Resultaten: ongeveer 85% wordt automatisch goedgelegd
-- Indien er binnen de criteria niet automatisch goedgelegd kan worden, doet het model een suggestie waardoor er minder handelingen moeten worden verricht bij de handmatige correcties
-- Na de resterende manuele aanpassingen ***********
+- Minder handmatige correcties dankzij de suggesties van het model
 
 ## Requirements
 
@@ -27,8 +26,8 @@ QGIS 3.16 (minimum) met taalinstelling: English US (EN_us)
 
 ## Installatie
 
-- het model (link naar download) kan in QGIS worden geopend in de Graphical modeler (CTRL+ALT+G of via Processing => Graphical modeler)
-- het pyqgis-script kan als afgeleide van het model geopend worden in de Python Console van QGIS (CTRL+ALT+P)
+- het model (link naar download) openen in de Graphical modeler van QGIS (CTRL+ALT+G of via Processing => Graphical modeler)
+- het pyqgis-script (een afgeleide van het model) openen in de Python Console van QGIS (CTRL+ALT+P)
 - de plugin binnen QGIS (work in progress) wordt gepubliceerd op https://plugins.qgis.org/plugins/
   
 ## Documentatie
@@ -38,22 +37,9 @@ Uitgebreidere informatie en een handleiding over de werking van de tool vind je 
 
 ## Screenshots
 
-Model binnen de model designer / graphical modeler van QGIS
-
-![App Screenshot](https://i.postimg.cc/rs8dKLx0/image.png)
-
 Venster in QGIS
 
 ![App Screenshot](https://i.postimg.cc/W1ns1JSn/image.png)
-
-Voor:
-
-![App Screenshot](https://i.postimg.cc/wjh7cv2y/image.png)
-
-Na: 
-
-![App Screenshot](https://i.postimg.cc/NjJfxHT0/image.png)
-
 
 ## Licentie
 
@@ -62,6 +48,3 @@ Na:
 
 
 ```
-    
-
-
