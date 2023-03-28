@@ -37,7 +37,7 @@ Uitgebreidere informatie en een handleiding over de werking van de tool vind je 
 
 Venster in QGIS
 
-![App Screenshot](https://i.postimg.cc/W1ns1JSn/image.png)
+![App Screenshot](https://i.postimg.cc/jd3qPtcz/Knipsel.jpg)
 
 ## Licentie
 
