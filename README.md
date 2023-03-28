@@ -17,9 +17,21 @@ Op deze pagina's wordt de tool toegelicht en beschikbaar gesteld als:
 
 - Thematische gegevens die zijn geënt op een eerdere percelenkaart aanpassen naar de recentste basiskaart (ADP uit GRB)
 - Gebruiksvriendelijk en amper voorbereidingstijd
-- Resultaten: ongeveer 85% wordt automatisch goedgelegd. Indien er binnen de criteria niet automatisch goedgelegd kan worden, doet het model een suggestie
+- Resultaten: ongeveer 85% wordt automatisch goedgelegd
+- Indien er binnen de criteria niet automatisch goedgelegd kan worden, doet het model een suggestie waardoor er minder handelingen moeten worden verricht bij de handmatige correcties
+- Na de resterende manuele aanpassingen ***********
+
+## Requirements
+
+QGIS 3.16 (minimum) met taalinstelling: English US (EN_us)
 
 
+## Installatie
+
+- de plugin binnen QGIS (work in progress) wordt gepubliceerd op https://plugins.qgis.org/plugins/
+- het model (link naar download) kan in QGIS worden geopend in de Graphical modeler (CTRL+ALT+G of via Processing => Graphical modeler)
+- 
+  
 ## Documentatie
 
 Uitgebreidere informatie en een handleiding over de werking van de tool vind je [hier](https://linktodocumentation).
@@ -49,13 +61,7 @@ Na:
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
 
-## Installatie
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
 ```
     
 
