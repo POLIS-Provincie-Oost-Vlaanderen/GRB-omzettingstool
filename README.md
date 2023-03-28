@@ -30,7 +30,7 @@ QGIS 3.16 (minimum) met taalinstelling: English US (EN_us)
 
 - de plugin binnen QGIS (work in progress) wordt gepubliceerd op https://plugins.qgis.org/plugins/
 - het model (link naar download) kan in QGIS worden geopend in de Graphical modeler (CTRL+ALT+G of via Processing => Graphical modeler)
-- 
+- het pyqgis-script kan als afgeleide van het model geopend worden in de Python Console van QGIS (CTRL+ALT+P)
   
 ## Documentatie
 
