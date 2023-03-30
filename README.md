@@ -20,7 +20,7 @@ Op deze pagina wordt de tool toegelicht en beschikbaar gesteld als:
 
 ## Requirements
 
-QGIS 3.16 (minimum) met taalinstelling: English US (EN_us)
+Windows - QGIS 3.22 (met taalinstelling: English US (EN_us))
 
 ## Installatie
 
