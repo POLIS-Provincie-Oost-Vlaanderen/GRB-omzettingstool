@@ -4,7 +4,7 @@ Doorheen de jaren zijn er in het Vlaamse GIS-landschap diverse basiskaarten gebr
 
 Om met deze uitdaging om te gaan, werden binnen [POLIS](https://oost-vlaanderen.be/bestuur-en-regio/wat-doet-het-provinciebestuur/e-government.html) in de loop van de jaren diverse tools ontwikkeld om thematische gegevens af te stemmen op een recente(re) basiskaart Vlaanderen (GRB). De tool die momenteel binnen [POLIS](https://oost-vlaanderen.be/bestuur-en-regio/wat-doet-het-provinciebestuur/e-government.html) in gebruik is, maakt gebruik van QGIS en werkt op basis van een aantal kenmerken van de geometrieën (ligging, overlapping en oppervlakte).
 
-Op deze pagina's wordt deze tool toegelicht en beschikbaar gesteld als:
+Op deze pagina wordt de tool toegelicht en beschikbaar gesteld als:
 
 - model (binnen de model designer / graphical modeler van QGIS)
 - script (in pyqgis)
