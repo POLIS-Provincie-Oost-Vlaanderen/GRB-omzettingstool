@@ -1,4 +1,4 @@
-# GRB-omzettingstool: thematische gegevens afstemmen op een recente(re) basiskaart Vlaanderen (GRB) 
+# GRB-omzettingstool
 
 Doorheen de jaren zijn er in het Vlaamse GIS-landschap diverse basiskaarten gebruikt en de huidige basiskaart (GRB) kent vooralsnog geen 'rust in de kaart'. Een gevolg daarvan is o.a. dat allerlei thematische gegevens en plannen afgeleid van eerder kaartmateriaal niet meer perfect passen op een recente basiskaart. De kwaliteit van de geodata neemt af en ruimtelijke analyse en bevraging worden bemoeilijkt.
 
