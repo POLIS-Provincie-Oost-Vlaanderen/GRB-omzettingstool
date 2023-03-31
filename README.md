@@ -45,11 +45,11 @@ Venster in QGIS
 
 Voor
 
-![App Screenshot](https://i.postimg.cc/SQZ6QRqB/voor.jpg)
+![App Screenshot](https://i.postimg.cc/ZqBbNfyP/voor.jpg)
 
 Na
 
-![App Screenshot](https://i.postimg.cc/sx07T6wj/na.jpg)
+![App Screenshot](https://i.postimg.cc/vZS8cRDH/na.jpg)
 
 ## Licentie
 
