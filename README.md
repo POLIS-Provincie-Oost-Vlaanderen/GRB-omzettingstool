@@ -51,6 +51,10 @@ Na
 
 ![App Screenshot](https://i.postimg.cc/vZS8cRDH/na.jpg)
 
+Inhoudstafel na het uitvoeren van het model
+
+![App Screenshot](https://i.postimg.cc/wjkfVHDg/image.png)
+
 ## Licentie
 
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
