@@ -47,7 +47,7 @@ Venster in QGIS
 
 [![GRB-omzettingstool](https://i.postimg.cc/2y5Kt5N4/image.png)](https://youtu.be/TmZXDBH5Q0A "GRB-omzettingstool")
 
-## Licentie
+## License
 
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
