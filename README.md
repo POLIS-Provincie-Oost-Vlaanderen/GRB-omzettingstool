@@ -1,6 +1,6 @@
 # GRB-omzettingstool
 
-Doorheen de jaren zijn er in het Vlaamse GIS-landschap diverse basiskaarten gebruikt en de huidige basiskaart (GRB) kent vooralsnog geen 'rust in de kaart'. Een gevolg daarvan is o.a. dat thematische gegevens afgeleid van eerder kaartmateriaal niet meer perfect past op een recente basiskaart. De kwaliteit van geodata neemt af, ruimtelijke analyse en bevraging worden bemoeilijkt.
+Doorheen de jaren zijn er in het Vlaamse GIS-landschap diverse basiskaarten gebruikt en de huidige basiskaart (GRB) kent vooralsnog geen 'rust in de kaart'. Een gevolg daarvan is o.a. dat thematische gegevens afgeleid van eerder kaartmateriaal niet langer perfect passen op een recente basiskaart. De kwaliteit van geodata neemt af, ruimtelijke analyse en bevraging worden bemoeilijkt.
 
 Om met deze uitdaging om te gaan, werden binnen [POLIS](https://oost-vlaanderen.be/bestuur-en-regio/wat-doet-het-provinciebestuur/e-government.html) in de loop van de jaren diverse tools ontwikkeld om thematische gegevens af te stemmen op een recente(re) basiskaart Vlaanderen (GRB). De tool die momenteel gebruikt wordt, maakt gebruik van QGIS en werkt op basis van een aantal kenmerken van de geometrieën (ligging, overlapping en oppervlakte).
 
