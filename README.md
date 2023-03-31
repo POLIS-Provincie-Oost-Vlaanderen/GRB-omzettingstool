@@ -8,7 +8,7 @@ Op deze pagina wordt de tool toegelicht en beschikbaar gesteld als:
 
 - model (model designer/graphical modeler QGIS)
 - script (pyqgis)
-- plugin binnen QGIS (work in progress)
+- plugin QGIS (work in progress)
 
 
 ## Features
