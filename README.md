@@ -28,7 +28,7 @@ Er zijn 3 mogelijkheden om de tool te installeren en openen.
 
 - Download het model (link naar download) en open dit bestand openen vanuit de Processing toolbox
 - Download het pyqgis script en open dit bestand openen vanuit de Processing toolbox
-- ![App Screenshot](https://i.postimg.cc/C19npTC2/image.png)
+![App Screenshot](https://i.postimg.cc/sx6TP25L/image.png)
 - Download de plugin binnen QGIS op https://plugins.qgis.org/plugins/ (work in progress)
   
 ## Documentatie
