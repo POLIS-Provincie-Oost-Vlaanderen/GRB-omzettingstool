@@ -43,6 +43,14 @@ Venster in QGIS
 
 ![App Screenshot](https://i.postimg.cc/C19npTC2/image.png)
 
+Voor
+
+![App Screenshot](https://i.postimg.cc/C19npTC2/image.png)
+
+Na
+
+![App Screenshot](https://i.postimg.cc/C19npTC2/image.png)
+
 ## Licentie
 
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
