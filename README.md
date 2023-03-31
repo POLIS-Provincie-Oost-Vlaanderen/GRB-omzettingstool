@@ -2,7 +2,7 @@
 
 Doorheen de jaren zijn er in het Vlaamse GIS-landschap diverse basiskaarten gebruikt en de huidige basiskaart (GRB) kent vooralsnog geen 'rust in de kaart'. Een gevolg daarvan is o.a. dat allerlei thematische gegevens en plannen afgeleid van eerder kaartmateriaal niet meer perfect passen op een recente basiskaart. De kwaliteit van de geodata neemt af en ruimtelijke analyse en bevraging worden bemoeilijkt.
 
-Om met deze uitdaging om te gaan, werden binnen [POLIS](https://oost-vlaanderen.be/bestuur-en-regio/wat-doet-het-provinciebestuur/e-government.html) in de loop van de jaren diverse tools ontwikkeld om thematische gegevens af te stemmen op een recente(re) basiskaart Vlaanderen (GRB). De tool die momenteel gebruik wordt, maakt gebruikt van QGIS en werkt op basis van een aantal kenmerken van de geometrieën (ligging, overlapping en oppervlakte).
+Om met deze uitdaging om te gaan, werden binnen [POLIS](https://oost-vlaanderen.be/bestuur-en-regio/wat-doet-het-provinciebestuur/e-government.html) in de loop van de jaren diverse tools ontwikkeld om thematische gegevens af te stemmen op een recente(re) basiskaart Vlaanderen (GRB). De tool die momenteel gebruikt wordt, maakt gebruikt van QGIS en werkt op basis van een aantal kenmerken van de geometrieën (ligging, overlapping en oppervlakte).
 
 Op deze pagina wordt de tool toegelicht en beschikbaar gesteld als:
 
