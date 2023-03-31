@@ -24,9 +24,12 @@ Windows - QGIS 3.22 (met taalinstelling: English US (EN_us))
 
 ## Installatie
 
-- het model (link naar download) openen in de Graphical modeler van QGIS (CTRL+ALT+G of via Processing => Graphical modeler)
-- het pyqgis-script (een afgeleide van het model) openen in de Python Console van QGIS (CTRL+ALT+P)
-- de plugin binnen QGIS (work in progress) wordt gepubliceerd op https://plugins.qgis.org/plugins/
+Er zijn 3 mogelijkheden om de tool te installeren en openen.
+
+- Download het model (link naar download) en open dit bestand openen vanuit de Processing toolbox
+- Download het pyqgis script en open dit bestand openen vanuit de Processing toolbox
+- ![App Screenshot](https://i.postimg.cc/C19npTC2/image.png)
+- Download de plugin binnen QGIS op https://plugins.qgis.org/plugins/ (work in progress)
   
 ## Documentatie
 
