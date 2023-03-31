@@ -43,18 +43,6 @@ Venster in QGIS
 
 ![App Screenshot](https://i.postimg.cc/C19npTC2/image.png)
 
-#Voor
-
-#![App Screenshot](https://i.postimg.cc/ZqBbNfyP/voor.jpg)
-
-Na
-
-#![App Screenshot](https://i.postimg.cc/vZS8cRDH/na.jpg)
-
-Inhoudstafel na het uitvoeren van het model
-
-#![App Screenshot](https://i.postimg.cc/wjkfVHDg/image.png)
-
 ## Video
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
