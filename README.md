@@ -32,7 +32,7 @@ Er zijn twee mogelijkheden om de tool te installeren en te openen.
 
 - Download de plugin binnen QGIS op https://plugins.qgis.org/plugins/ (work in progress)
   
-## Documentatie
+## Documentation
 
 Uitgebreidere informatie en een handleiding over de werking van de tool vind je [hier](https://linktodocumentation).
 
