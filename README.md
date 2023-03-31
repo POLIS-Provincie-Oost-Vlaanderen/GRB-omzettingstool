@@ -45,7 +45,7 @@ Venster in QGIS
 
 ## Video
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/TmZXDBH5Q0A "Everything Is AWESOME")
+[![GRB-omzettingstool](https://i.postimg.cc/2y5Kt5N4/image.png)](https://youtu.be/TmZXDBH5Q0A "GRB-omzettingstool")
 
 ## Licentie
 
