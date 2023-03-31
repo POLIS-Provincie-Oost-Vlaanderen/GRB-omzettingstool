@@ -22,13 +22,14 @@ Op deze pagina wordt de tool toegelicht en beschikbaar gesteld als:
 
 Windows - QGIS 3.22 (met taalinstelling: English US (EN_us))
 
-## Installatie
+## Installation
 
-Er zijn 3 mogelijkheden om de tool te installeren en openen.
+Er zijn twee mogelijkheden om de tool te installeren en te openen.
 
-- Download het model (link naar download) en open dit bestand openen vanuit de Processing toolbox
-- Download het pyqgis script en open dit bestand openen vanuit de Processing toolbox
+- Download het model en/of het pyqgis script en open dit bestand vanuit de Processing toolbox
+
 ![App Screenshot](https://i.postimg.cc/sx6TP25L/image.png)
+
 - Download de plugin binnen QGIS op https://plugins.qgis.org/plugins/ (work in progress)
   
 ## Documentatie
