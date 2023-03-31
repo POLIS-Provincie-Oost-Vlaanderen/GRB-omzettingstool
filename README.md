@@ -43,17 +43,17 @@ Venster in QGIS
 
 ![App Screenshot](https://i.postimg.cc/C19npTC2/image.png)
 
-Voor
+#Voor
 
-![App Screenshot](https://i.postimg.cc/ZqBbNfyP/voor.jpg)
+#![App Screenshot](https://i.postimg.cc/ZqBbNfyP/voor.jpg)
 
 Na
 
-![App Screenshot](https://i.postimg.cc/vZS8cRDH/na.jpg)
+#![App Screenshot](https://i.postimg.cc/vZS8cRDH/na.jpg)
 
 Inhoudstafel na het uitvoeren van het model
 
-![App Screenshot](https://i.postimg.cc/wjkfVHDg/image.png)
+#![App Screenshot](https://i.postimg.cc/wjkfVHDg/image.png)
 
 ## Video
 
