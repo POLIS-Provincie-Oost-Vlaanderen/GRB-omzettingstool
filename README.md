@@ -59,8 +59,6 @@ Inhoudstafel na het uitvoeren van het model
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
-![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
 ## Licentie
 
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
