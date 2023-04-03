@@ -28,6 +28,7 @@ Er zijn twee mogelijkheden om de tool te installeren en te openen.
 - Download het [zip-bestand](https://github.com/POLIS-Provincie-Oost-Vlaanderen/GRB-omzettingstool/blob/main/GRB-omzettingstool.zip) met daarin het model en het pyqgis script. Pak de bestanden uit, sla deze lokaal op en vervolgens kan je deze toevoegen en openen in QGIS via de Processing toolbox.
 
   ![App Screenshot](https://i.postimg.cc/sx6TP25L/image.png)
+  
   ![App Screenshot](https://i.postimg.cc/7hRytjrq/Knipsel0.jpg)
 
 - Download de plugin binnen QGIS op https://plugins.qgis.org/plugins/ (work in progress)
