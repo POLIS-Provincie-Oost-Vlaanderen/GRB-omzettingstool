@@ -33,10 +33,16 @@ Er zijn twee mogelijkheden om de tool te installeren en te openen.
 
 - Download de plugin binnen QGIS op https://plugins.qgis.org/plugins/ (work in progress)
   
-## Documentation
+## Workflow & documentation
+
+- Download en installeer de tool in QGIS
+- Voeg een thematische laag (gebaseerd op een percelenkaart) die je wil corrigeren en de referentielaag (doorgaans Adp uit het GRB) toe aan QGIS
+- Open de tool vanuit de processing toolbox van QGIS
+- Voeg beide lagen toe aan de tool en druk op 'run'
+- 
+
 
 Uitgebreidere informatie en een handleiding over de werking van de tool vind je [hier](https://linktodocumentation).
-
 
 ## Screenshots
 
