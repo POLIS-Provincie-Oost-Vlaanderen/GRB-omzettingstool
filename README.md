@@ -2,12 +2,12 @@
 
 Doorheen de jaren zijn er in het Vlaamse GIS-landschap diverse basiskaarten gebruikt en de huidige basiskaart (GRB) kent vooralsnog geen 'rust in de kaart'. Een gevolg daarvan is o.a. dat thematische gegevens afgeleid van eerder kaartmateriaal niet langer perfect passen op een recente basiskaart. De kwaliteit van geodata neemt af en ruimtelijke analyse of bevraging worden bemoeilijkt.
 
-[POLIS](https://oost-vlaanderen.be/bestuur-en-regio/wat-doet-het-provinciebestuur/e-government.html) heeft kennis en ervaring in huis om met deze uitdaging om te gaan. Thematische gegevens kunnen grotendeels automatisch worden afgestemd op een recente basiskaart Vlaanderen (GRB) met een tool die gebruik maakt van [QGIS](https://qgis.org).
+[POLIS, Provincie Oost-Vlaanderen](https://oost-vlaanderen.be/bestuur-en-regio/wat-doet-het-provinciebestuur/e-government.html) heeft kennis en ervaring in huis om met deze uitdaging om te gaan. Thematische gegevens kunnen grotendeels automatisch worden afgestemd op een recente basiskaart Vlaanderen (GRB) met een tool die gebruik maakt van [QGIS](https://qgis.org).
 
 Graag stelt POLIS de tool open en beschikbaar als:
 
 - model (model designer/graphical modeler QGIS)
-- script (pyqgis)
+- script (PyQGIS)
 - plugin QGIS (work in progress)
 
 ## Features
@@ -19,13 +19,13 @@ Graag stelt POLIS de tool open en beschikbaar als:
 
 ## Requirements
 
-Windows - QGIS 3.22 (met taalinstelling: English US (EN_us))
+QGIS 3.22 (met taalinstelling: English US (EN_us)) in Windows
 
 ## Installation
 
 Er zijn twee mogelijkheden om de tool te installeren en te openen.
 
-- Download het [zip-bestand](https://github.com/POLIS-Provincie-Oost-Vlaanderen/GRB-omzettingstool/blob/main/GRB-omzettingstool.zip) met daarin het model en het pyqgis script. Pak de bestanden uit, sla deze lokaal op en vervolgens kan je deze toevoegen en openen in QGIS via de Processing toolbox.
+- Download het [zip-bestand](https://github.com/POLIS-Provincie-Oost-Vlaanderen/GRB-omzettingstool/blob/main/GRB-omzettingstool.zip) met daarin het model en het pyqgis script. Pak de bestanden uit, sla deze lokaal op en vervolgens kan je deze toevoegen en openen in QGIS via de Processing toolbox (hetzij als model, hetzij als script).
 
   ![App Screenshot](https://i.postimg.cc/sx6TP25L/image.png)
   
@@ -36,13 +36,14 @@ Er zijn twee mogelijkheden om de tool te installeren en te openen.
 ## Workflow & documentation
 
 - Download en installeer de tool in QGIS
-- Voeg een thematische laag (gebaseerd op een percelenkaart) die je wil corrigeren en de referentielaag (doorgaans Adp uit het GRB) toe aan QGIS
+- Voeg een thematische laag (gebaseerd op een percelenkaart) die je wil corrigeren en de referentielaag (Adp uit het GRB) toe aan QGIS
 - Open de tool vanuit de processing toolbox van QGIS
 - Voeg beide lagen toe aan de tool en druk op 'run'
-- 
+- Dit resulteert in vier nieuwe lagen: Automatisch omgezet, Afwezig in de output, Gelegen op openbaar domein & Handmatig te controleren en aan te passen
+- De laatste drie lagen dien je manueel te overlopen en aan te passen indien nodig
+- Na afloop kan je de vier lagen weer samenvoegen
 
-
-Uitgebreidere informatie en een handleiding over de werking van de tool vind je [hier](https://linktodocumentation).
+De technische werking van de tool is summier toegelicht in de PyQGIS-code.
 
 ## Screenshots
 
