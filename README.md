@@ -38,7 +38,7 @@ Er zijn twee mogelijkheden om de tool te installeren en te openen.
 - Download en installeer de tool in QGIS
 - Voeg een thematische laag (gebaseerd op een percelenkaart) die je wil corrigeren en de referentielaag (Adp uit het GRB) toe aan QGIS
 - Open de tool vanuit de processing toolbox van QGIS
-- Voeg beide lagen toe aan de tool en druk op 'run'
+- Voeg beide lagen toe aan de tool en druk op 'Run'
 - Dit resulteert in vier nieuwe lagen: Automatisch omgezet, Afwezig in de output, Gelegen op openbaar domein & Handmatig te controleren en aan te passen
 - De laatste drie lagen dien je manueel te overlopen en aan te passen indien nodig
 - Na afloop kan je de vier lagen weer samenvoegen
