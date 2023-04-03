@@ -25,7 +25,7 @@ QGIS 3.22 (met taalinstelling: English US (EN_us)) in Windows
 
 Er zijn twee mogelijkheden om de tool te installeren en te openen.
 
-- Download het [zip-bestand](https://github.com/POLIS-Provincie-Oost-Vlaanderen/GRB-omzettingstool/blob/main/GRB-omzettingstool.zip) met daarin het model en het pyqgis script. Pak de bestanden uit, sla deze lokaal op en vervolgens kan je deze toevoegen en openen in QGIS via de Processing toolbox (hetzij als model, hetzij als script).
+- Download het [zip-bestand](https://github.com/POLIS-Provincie-Oost-Vlaanderen/GRB-omzettingstool/blob/main/GRB-omzettingstool.zip) met daarin het model en het PyQGIS script. Pak de bestanden uit, sla deze lokaal op en vervolgens kan je deze toevoegen en openen in QGIS via de Processing toolbox (hetzij als model, hetzij als script).
 
   ![App Screenshot](https://i.postimg.cc/sx6TP25L/image.png)
   
