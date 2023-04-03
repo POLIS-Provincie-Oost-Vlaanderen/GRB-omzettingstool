@@ -47,7 +47,7 @@ De technische werking van de tool is summier toegelicht in de PyQGIS-code.
 
 ## Screenshots
 
-Venster in QGIS
+GRB-omzettingstool in QGIS
 
 ![App Screenshot](https://i.postimg.cc/C19npTC2/image.png)
 
