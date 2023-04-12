@@ -53,7 +53,7 @@ GRB-omzettingstool in QGIS
 
 ## Video
 
-[![GRB-omzettingstool](https://i.postimg.cc/2y5Kt5N4/image.png)](https://youtu.be/TmZXDBH5Q0A "GRB-omzettingstool")
+[![GRB-omzettingstool](https://i.postimg.cc/2y5Kt5N4/image.png)](https://vimeo.com/816806441 "GRB-omzettingstool")
 
 ## License
 
